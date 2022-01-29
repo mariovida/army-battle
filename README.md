@@ -1,7 +1,7 @@
 <h1 align="center">Army Battle</h1>
 
 
-## O zadatku
+## About project
 <p>Program simulira bitku između dvije vojske (Crvene i Plave).<br/>
 Svaku rundu se bore vojnik iz Crvene vojske i vojnik iz Plave vojske.<br/>
 Slučajnim odabirom se određuje tko napada, a tko se brani te koliki će se damage nanositi.<br/>
