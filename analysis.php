@@ -73,7 +73,7 @@
           		$defender->numSoldiers = $defender->numSoldiers - 1;
               $defender->health = 100;
               if($defender == $army1) {
-                echo "<br/>Soldier from Red Army died!";
+                echo "<br/>Soldier from Red Army died!<br/><br/>";
               } else {
                 echo "<br/>Soldier from Blue Army died!<br/><br/>";
               }
